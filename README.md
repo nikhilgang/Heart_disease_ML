@@ -8,3 +8,18 @@ According to the Centers for Disease Control and Prevention Heart disease is the
 
 #Dataset
 In order to conduct this analysis, we use the publicly available Cleveland dataset for heart disease, which has over 300 unique instances with 76 total attributes. From these 76 total attributes, only 14 of them are commonly used for research to this date
+ And the 14 features are:
+ # 1) age
+ # 2) sex
+ # 3) cp
+ # 4) trestbps
+ # 5) chol
+ # 6) fbs
+ # 7) restecg
+ # 8) thalach
+ # 9) exang
+ # 10)oldpeak
+ # 11) slope
+ # 12) ca
+ # 13) thal
+ # 14) target
